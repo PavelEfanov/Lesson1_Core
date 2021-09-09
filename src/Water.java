@@ -11,3 +11,5 @@ public class Water extends Obstacle {
         participant.swim(length);
     }
 }
+
+//Done
