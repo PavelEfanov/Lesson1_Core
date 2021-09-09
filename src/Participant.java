@@ -10,6 +10,3 @@ public interface Participant {
 
     void swim(int distance);
 }
-
-
-//DONE

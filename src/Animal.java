@@ -64,6 +64,3 @@ public abstract class Animal implements Participant {
         return name + " : " + (isOnDistance() ? "на дистанции" : "сошел с дистанции");
     }
 }
-
-
-//DONE

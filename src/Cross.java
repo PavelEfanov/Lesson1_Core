@@ -11,5 +11,3 @@ public class Cross extends Obstacle {
         animal.run(length);
     }
 }
-
-//DONE
