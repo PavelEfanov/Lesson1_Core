@@ -11,3 +11,6 @@ public class Wall extends Obstacle {
         participant.jump(height);
     }
 }
+
+
+//DONE
